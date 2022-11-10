@@ -1,0 +1,180 @@
+"Bay","Period","Site","Num_quads","Sum_spat","Sum_seed","Sum_legal"
+"Apalachicola",10,"Bayou Flats",15,57,0,0
+"Apalachicola",10,"Cat Point",30,73,25,0
+"Apalachicola",10,"Dry Bar",60,54,1,0
+"Apalachicola",10,"Eleven Mile",30,107,11,0
+"Apalachicola",10,"Hotel Bar",45,257,1,0
+"Apalachicola",10,"Lighthouse Bar",30,91,3,0
+"Apalachicola",10,"Little Gully",30,54,0,0
+"Apalachicola",10,"Normans Bar",60,550,108,2
+"Apalachicola",10,"Redfish Creek",45,409,58,0
+"Apalachicola",12,"Cabbage Top",15,454,509,7
+"Apalachicola",12,"Hotel Bar",45,4132,2389,8
+"Apalachicola",12,"North Spur",30,445,346,0
+"Apalachicola",13,"8 Mile",30,68,647,73
+"Apalachicola",13,"9 Mile B",15,0,4,1
+"Apalachicola",13,"Bayou Flats",15,16,15,5
+"Apalachicola",13,"Bulkhead",15,114,809,136
+"Apalachicola",13,"Cabbage Lumps",15,17,10,3
+"Apalachicola",13,"Cabbage Top",30,24,1,0
+"Apalachicola",13,"Cat Point",75,11318,1286,62
+"Apalachicola",13,"Cat Point Spur",30,912,1732,184
+"Apalachicola",13,"Dry Bar",45,239,0,0
+"Apalachicola",13,"East Hole",90,1483,1403,27
+"Apalachicola",13,"East Lumps",30,24331,208,5
+"Apalachicola",13,"Eleven Mile",30,24,23,5
+"Apalachicola",13,"Green Point",15,120,2,0
+"Apalachicola",13,"Hotel Bar",45,211,2,0
+"Apalachicola",13,"King 9 Mile",15,39,216,17
+"Apalachicola",13,"Lighthouse Bar",60,8979,158,7
+"Apalachicola",13,"Little Gully",30,443,9,0
+"Apalachicola",13,"Monkeys Elbow",30,128,785,119
+"Apalachicola",13,"North Spur",15,106,5,0
+"Apalachicola",13,"Peanut Ridge",30,563,786,168
+"Apalachicola",13,"Redfish Creek",45,50,24,3
+"Apalachicola",14,"Cat Point",60,13518,2994,2
+"Apalachicola",14,"Dry Bar",15,5,0,0
+"Apalachicola",14,"East Lumps",30,30327,6839,10
+"Apalachicola",14,"Lighthouse Bar",30,15675,3531,0
+"Apalachicola",14,"Normans Bar",60,772,235,13
+"Apalachicola",15,"Cat Point",15,1012,1679,0
+"Apalachicola",15,"East Lumps",15,1034,1717,0
+"Apalachicola",15,"Lighthouse Bar",15,747,1244,0
+"Apalachicola",2,"Bulkhead",150,69318,18423,5
+"Apalachicola",2,"Dry Bar",149,30430,8082,2
+"Apalachicola",2,"Hotel Bar",149,78459,20865,11
+"Apalachicola",3,"Bulkhead",150,4419,7165,0
+"Apalachicola",3,"Dry Bar",155,2094,3354,0
+"Apalachicola",3,"Hotel Bar",150,9816,15928,0
+"Apalachicola",4,"Bulkhead",150,36381,3718,0
+"Apalachicola",4,"Dry Bar",150,3632,365,0
+"Apalachicola",4,"Hotel Bar",150,35779,3660,0
+"Apalachicola",5,"Bayou Flats",15,0,0,0
+"Apalachicola",5,"Bulkhead",150,16339,3219,593
+"Apalachicola",5,"Cabbage Lumps",15,76,38,4
+"Apalachicola",5,"Cabbage Top",30,33,15,15
+"Apalachicola",5,"Cat Point",30,466,1198,52
+"Apalachicola",5,"Dry Bar",205,761,87,12
+"Apalachicola",5,"Eleven Mile",30,2,0,0
+"Apalachicola",5,"Green Point",15,3,0,0
+"Apalachicola",5,"Hotel Bar",195,11602,1983,349
+"Apalachicola",5,"Lighthouse Bar",30,1022,265,29
+"Apalachicola",5,"Little Gully",30,37,2,0
+"Apalachicola",5,"Normans Bar",60,683,632,15
+"Apalachicola",5,"North Spur",15,2,1,0
+"Apalachicola",5,"Redfish Creek",45,255,166,34
+"Apalachicola",6,"Bayou Flats",15,0,0,0
+"Apalachicola",6,"Bulkhead",150,25151,123,0
+"Apalachicola",6,"Cabbage Lumps",15,157,13,3
+"Apalachicola",6,"Cat Point",30,1519,227,16
+"Apalachicola",6,"Dry Bar",195,2318,0,0
+"Apalachicola",6,"Eleven Mile",30,2,0,0
+"Apalachicola",6,"Green Point",15,37,0,0
+"Apalachicola",6,"Hotel Bar",195,16227,63,0
+"Apalachicola",6,"Lighthouse Bar",30,2483,180,4
+"Apalachicola",6,"Normans Bar",60,827,361,36
+"Apalachicola",6,"North Spur",15,12,0,0
+"Apalachicola",6,"Redfish Creek",45,168,32,2
+"Apalachicola",7,"8 Mile",30,0,17,0
+"Apalachicola",7,"9 Mile B",5,29,0,0
+"Apalachicola",7,"Bulkhead",165,9707,730,0
+"Apalachicola",7,"Cabbage Top",45,226,272,5
+"Apalachicola",7,"Cat Point",45,978,515,0
+"Apalachicola",7,"Cat Point Spur",30,2486,280,0
+"Apalachicola",7,"Dry Bar",165,180,0,0
+"Apalachicola",7,"East Hole",90,5286,357,0
+"Apalachicola",7,"Hotel Bar",195,6474,53,0
+"Apalachicola",7,"King 9 Mile",15,0,0,0
+"Apalachicola",7,"Little Gully",30,7,0,0
+"Apalachicola",7,"Monkeys Elbow",30,1037,508,0
+"Apalachicola",7,"North Spur",30,1247,229,0
+"Apalachicola",7,"Peanut Ridge",30,707,388,0
+"Apalachicola",8,"Bulkhead",150,1750,0,0
+"Apalachicola",8,"Dry Bar",150,196,0,0
+"Apalachicola",8,"Hotel Bar",150,2918,0,0
+"Apalachicola",9,"8 Mile",30,28,145,0
+"Apalachicola",9,"9 Mile B",25,0,0,0
+"Apalachicola",9,"Bulkhead",165,2044,691,0
+"Apalachicola",9,"Cabbage Lumps",15,8,1,0
+"Apalachicola",9,"Cabbage Top",45,173,1262,0
+"Apalachicola",9,"Cat Point",45,1933,946,2
+"Apalachicola",9,"Cat Point Spur",30,2176,1626,5
+"Apalachicola",9,"Dry Bar",150,137,0,0
+"Apalachicola",9,"East Hole",90,2527,930,0
+"Apalachicola",9,"Green Point",15,0,0,0
+"Apalachicola",9,"Hotel Bar",195,2075,1773,0
+"Apalachicola",9,"King 9 Mile",15,19,28,0
+"Apalachicola",9,"Monkeys Elbow",30,1409,852,0
+"Apalachicola",9,"North Spur",45,146,14,0
+"Apalachicola",9,"Peanut Ridge",30,1471,772,0
+"Pensacola",10,"Big John Bar",15,346,232,6
+"Pensacola",10,"Boathouse Lumps",30,108,0,0
+"Pensacola",10,"East River",60,1301,697,10
+"Pensacola",10,"Escribano Point",30,451,386,0
+"Pensacola",10,"Half Moon Bar",15,147,0,0
+"Pensacola",10,"Mussel Beds",15,186,269,3
+"Pensacola",10,"No Name Bar",15,417,264,4
+"Pensacola",10,"Point No Point Bar",15,30,32,0
+"Pensacola",10,"Square Bar",15,0,0,0
+"Pensacola",10,"Trout Bayou",45,327,998,10
+"Pensacola",10,"White Point Bar",30,755,577,1
+"Pensacola",15,"Big John Bar",15,0,0,0
+"Pensacola",15,"Boathouse Lumps",30,6,0,0
+"Pensacola",15,"East River",60,2,22,4
+"Pensacola",15,"Escribano Point",30,1,52,5
+"Pensacola",15,"Half Moon Bar",15,1,0,0
+"Pensacola",15,"Mussel Beds",15,1,0,0
+"Pensacola",15,"No Name Bar",15,5,7,5
+"Pensacola",15,"Point No Point Bar",15,0,0,0
+"Pensacola",15,"Square Bar",15,1,0,0
+"Pensacola",15,"Trout Bayou",45,23,33,2
+"Pensacola",15,"White Point Bar",30,3,30,0
+"Pensacola",5,"Boathouse Lumps",30,429,46,1
+"Pensacola",5,"Escribano Point",30,5,0,0
+"Pensacola",5,"Mussel Beds",15,161,3,0
+"Pensacola",5,"No Name Bar",15,226,201,0
+"Pensacola",5,"Point No Point Bar",15,3,2,0
+"Pensacola",5,"Trout Bayou",45,1508,64,2
+"Pensacola",6,"Big John Bar",15,80,280,0
+"Pensacola",6,"East River",60,454,868,13
+"Pensacola",6,"Half Moon Bar",15,391,368,0
+"Pensacola",6,"Square Bar",15,205,204,0
+"Pensacola",6,"White Point Bar",30,24,34,0
+"Pensacola",7,"Big John Bar",15,88,144,0
+"Pensacola",7,"Boathouse Lumps",30,281,152,0
+"Pensacola",7,"East River",60,143,655,1
+"Pensacola",7,"Escribano Point",30,329,377,0
+"Pensacola",7,"Half Moon Bar",15,331,147,0
+"Pensacola",7,"Mussel Beds",15,15,2,0
+"Pensacola",7,"No Name Bar",15,61,131,0
+"Pensacola",7,"Point No Point Bar",15,17,0,0
+"Pensacola",7,"Square Bar",15,206,74,1
+"Pensacola",7,"Trout Bayou",45,923,341,0
+"Pensacola",7,"White Point Bar",30,301,269,0
+"St. Andrew",10,"Crooked Creek Point",15,0,0,0
+"St. Andrew",10,"Doyle Bayou",30,814,322,1
+"St. Andrew",10,"East Power Lines",15,651,86,0
+"St. Andrew",10,"Goose Point",15,721,396,21
+"St. Andrew",10,"Little Oyster Bar Point",15,595,414,12
+"St. Andrew",10,"Newman Bayou Bar",15,1,0,0
+"St. Andrew",10,"Off Little Oyster Bar Ridge",15,768,412,22
+"St. Andrew",10,"South Channel Ridge",15,8204,205,3
+"St. Andrew",10,"West Bay Point",30,1321,151,0
+"St. Andrew",5,"Crooked Creek Point",15,31,31,1
+"St. Andrew",5,"Doyle Bayou",30,892,260,0
+"St. Andrew",5,"East Power Lines",15,21,0,0
+"St. Andrew",5,"Goose Point",15,62,138,4
+"St. Andrew",5,"Little Oyster Bar Point",12,68,14,0
+"St. Andrew",5,"Newman Bayou Bar",15,32,17,4
+"St. Andrew",5,"Off Little Oyster Bar Ridge",15,70,17,0
+"St. Andrew",5,"South Channel Ridge",15,361,231,25
+"St. Andrew",5,"West Bay Point",30,3318,260,4
+"St. Andrew",7,"Crooked Creek Point",15,269,153,7
+"St. Andrew",7,"Doyle Bayou",30,683,281,0
+"St. Andrew",7,"East Power Lines",15,2001,340,13
+"St. Andrew",7,"Goose Point",15,1132,550,17
+"St. Andrew",7,"Little Oyster Bar Point",15,941,857,6
+"St. Andrew",7,"Newman Bayou Bar",15,186,116,8
+"St. Andrew",7,"Off Little Oyster Bar Ridge",15,930,1640,57
+"St. Andrew",7,"South Channel Ridge",15,1465,478,11
+"St. Andrew",7,"West Bay Point",30,3707,213,0
