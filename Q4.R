@@ -1,6 +1,9 @@
 #Question (4) How do oyster spat densities compare across projects and cultch densities 
 #in Apalachicola Bay?
 
+#in the final manuscript only graphical summaries were included but this
+#was the original analyses.
+
 library(readxl)
 library(tidyverse)
 library(dplyr)
